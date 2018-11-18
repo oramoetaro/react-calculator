@@ -1,0 +1,13 @@
+html,
+body {
+  height: 100%; }
+
+#display {
+  font-size: 2rem;
+  font-family: 'Orbitron', sans-serif; }
+
+#calculator {
+  width: 285px;
+  padding: 0 15px; }
+
+/*# sourceMappingURL=style.css.map */
